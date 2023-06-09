@@ -36,4 +36,4 @@ The total sum of crime on child stealing, attempted murder and attempted suicide
 ## The dashboard helps create more Insights on the 2017 Crime rate in Nigeria with the use of a **Slicer** and a **Table**.
 
 
-![]()
+![](https://github.com/Lindaobichukwu/2017-NIGERIA-CRIME-STATISTICS-ANALYSIS/blob/main/Capture26.PNG)
